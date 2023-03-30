@@ -19,7 +19,7 @@ This project is an app development project aimed at achieving the UN SDGs goal o
 
 <br/>
 
-## 📐 Project Architecture
+## 🏛 Project Architecture
 
 <image src='https://github.com/Beach-Combine/.github/blob/main/images/architecture.png?raw=true' width="800"/>
 
@@ -31,7 +31,7 @@ This project is an app development project aimed at achieving the UN SDGs goal o
 
 <br/>
 
-## 📼 Demo Video Link
+## 📽 Demo Video Link
 
 [![BeachCombine](https://github.com/Beach-Combine/.github/blob/main/images/video.JPG?raw=true)](https://www.youtube.com/watch?v=QcZ9F5scACw)
 
@@ -100,7 +100,7 @@ For Android User
 
 <br/>
 
-## 👩‍💻 Contributors
+## 👥 Contributors
 
 |                                  Mobile/AI                                   |                                    Backend                                    |                                   Backend                                    |                                    Design                                     |
 | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
