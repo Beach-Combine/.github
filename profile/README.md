@@ -1,4 +1,4 @@
-<image src='../images/header.png' width="800"/>
+<image src='https://github.com/Beach-Combine/.github/blob/main/images/header.png?raw=true' width="800"/>
 <br/>
 
 ## 📢 Introduction
