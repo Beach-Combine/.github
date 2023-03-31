@@ -13,12 +13,6 @@ This project is an app development project aimed at achieving the UN SDGs goal o
 
 <br/>
 
-## 💡 How to use
-
-<image src='https://github.com/Beach-Combine/.github/blob/main/images/longImage.png?raw=true' width="800"/>
-
-<br/>
-
 ## 📲 Execution Method
 
 For Android User
@@ -27,6 +21,12 @@ For Android User
 2. You can use it right away by installing it on your smartphone!
 
 - Currently, this service is providing beta service for Busan, Korea.
+
+<br/>
+
+## 💡 How to use
+
+<image src='https://github.com/Beach-Combine/.github/blob/main/images/longImage.png?raw=true' width="800"/>
 
 <br/>
 
