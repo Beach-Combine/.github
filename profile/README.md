@@ -42,7 +42,7 @@ For Android User
 
 <br/>
 
-## ✅ Deployment Process (CI/CD using Github Actions)
+## ✅ Server Deployment Process (CI/CD using Github Actions)
 
 ### Local : Gradle build, Docker build
 1. jar build : `gradle build`
