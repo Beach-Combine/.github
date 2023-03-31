@@ -13,21 +13,20 @@ This project is an app development project aimed at achieving the UN SDGs goal o
 
 <br/>
 
-## 📄 ERD
+## 💡 How to use
 
-<image src='https://github.com/Beach-Combine/.github/blob/main/images/erd.png?raw=true' width="800"/>
-
-<br/>
-
-## 🏛 Project Architecture
-
-<image src='https://github.com/Beach-Combine/.github/blob/main/images/architecture.png?raw=true' width="800"/>
+<image src='https://github.com/Beach-Combine/.github/blob/main/images/longImage.png?raw=true' width="800"/>
 
 <br/>
 
-## 🛠 Tech Stacks
+## 📲 Execution Method
 
-<image src='https://github.com/Beach-Combine/.github/blob/main/images/techStack.png?raw=true' width="800"/>
+For Android User
+
+1. Download apk file ⭐ [here](https://drive.google.com/file/d/1b2KX29Ry0wW-YsW7Ppdn6b2xL5n8T3l2/view?usp=sharing) ⭐. (Available for Android version 12 or higher)
+2. You can use it right away by installing it on your smartphone!
+
+- Currently, this service is providing beta service for Busan, Korea.
 
 <br/>
 
@@ -37,24 +36,43 @@ This project is an app development project aimed at achieving the UN SDGs goal o
 
 <br/>
 
-## 💡 How to use
+## 🏛 Project Architecture
 
-<image src='https://github.com/Beach-Combine/.github/blob/main/images/longImage.png?raw=true' width="800"/>
-
-<br/>
-
-## 📲 Execution Method
-
-For Android User
-
-1. Download apk file [here](https://drive.google.com/file/d/1b2KX29Ry0wW-YsW7Ppdn6b2xL5n8T3l2/view?usp=sharing). (Available for Android version 12 or higher)
-2. You can use it right away by installing it on your smartphone!
-
-- Currently, this service is providing beta service for Busan, Korea.
+<image src='https://github.com/Beach-Combine/.github/blob/main/images/architecture.png?raw=true' width="800"/>
 
 <br/>
 
-## 📋 GIT Strategy
+## ✅ Deployment Process (CI/CD using Github Actions)
+
+### Local : Gradle build, Docker build
+1. jar build : `gradle build`
+2. image creation : `docker build -t yourAccountName/repositoryName ./`
+3. push to Docker Hub : `docker push yourAccountName/repositoryName`
+
+(`AccoutName` and `RepositoryName` are from Docker Hub)
+
+### Server : Deploy
+1. Pull from Docker Hub : `docker pull yourAccountName/repositoryName`
+2. Create image as configured in Docker-compose.yml : `docker tag yourAccountName/repositoryName dockerImageName`
+3. Run Docker Compose : `docker-compose up`
+
+(`dockerImageName` should be written as the image name in Docker-compose.yml)
+
+<br />
+
+## 🛠 Tech Stacks
+
+<image src='https://github.com/Beach-Combine/.github/blob/main/images/techStack.png?raw=true' width="800"/>
+
+<br/>
+
+## 📁 ERD
+
+<image src='https://github.com/Beach-Combine/.github/blob/main/images/erd.png?raw=true' width="800"/>
+
+<br/>
+
+## ❗ GIT Strategy
 
 ### 1) Git Workflow
 
