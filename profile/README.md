@@ -21,7 +21,17 @@ For Android User
 2. You can use it right away by installing it on your smartphone!
 
 - Currently, this service is providing beta service for Busan, Korea.
+<br/>
 
+## 📍 Test Version
+
+We provide a test version for people without access to nearby beaches to immediately try out our app's features. 
+
+To use the test version, simply launch the app, log in, and press the test button. 
+
+In the test version, regardless of the user's actual location, it assumes that the user is located at Gwangalli Beach in Busan, allowing them to experience the app's features. 
+
+Features available in the test version include: ...
 <br/>
 
 ## 💡 How to use
@@ -32,7 +42,7 @@ For Android User
 
 ## 📽 Demo Video Link
 
-[![BeachCombine](https://github.com/Beach-Combine/.github/blob/main/images/video.JPG?raw=true)](https://www.youtube.com/watch?v=QcZ9F5scACw)
+[![BeachCombine](https://github.com/Beach-Combine/.github/blob/main/images/video.JPG?raw=true)](https://youtu.be/AJusc-HUwQA)
 
 <br/>
 
